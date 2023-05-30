@@ -20,3 +20,14 @@ Należy podać polecenia niezbędne do:
   - `docker logs -f zad1`
 - d. sprawdzenia, ile warstw posiada zbudowany obraz. 
   - `docker history zadanie1`
+
+
+## Screenshots
+- a. Rezultat build:
+  - ![img.png](img.png)
+- b. Docker run
+  - ![img_1.png](img_1.png)
+- c. Logs
+  - ![img_2.png](img_2.png)
+- d. Warstwy
+  - ![img_3.png](img_3.png)

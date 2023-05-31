@@ -1,3 +1,5 @@
+# Aplikacja dostępna pod linkiem: https://pfswcho-zadanie1.fly.dev/
+
 # 1 (max. 20%) 
 Proszę napisać program serwera (dowolny język programowania), który realizować będzie następującą funkcjonalność: 
 - po uruchomieniu kontenera, serwer pozostawia w logach informację o dacie uruchomienia, imieniu i nazwisku autora serwera (imię i nazwisko studenta)  oraz porcie TCP, na którym serwer nasłuchuje na zgłoszenia klienta.  

@@ -14,6 +14,9 @@ dependencies {
     implementation("com.sparkjava:spark-core:2.9.4")
     implementation("org.slf4j:slf4j-api:2.0.5")
     implementation("org.slf4j:slf4j-simple:2.0.5")
+    implementation("io.github.openfeign:feign-okhttp:12.2")
+    implementation("io.github.openfeign:feign-gson:12.2")
+    implementation("io.github.openfeign:feign-slf4j:12.2")
 }
 
 tasks.withType<Jar> {

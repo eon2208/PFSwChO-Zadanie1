@@ -14,7 +14,6 @@ RUN ./gradlew --version
 
 # Copy the source code
 COPY src src
-
 # Build the application
 RUN ./gradlew shadowjar
 

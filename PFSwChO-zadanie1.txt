@@ -1,0 +1,6 @@
+Github: https://github.com/eon2208/PFSwChO-Zadanie1
+DockerHub: https://hub.docker.com/repository/docker/eon2208/zadanie1/general
+
+Aplikacja: https://pfswcho-zadanie1.fly.dev/
+
+Praca została wykonana w terminie na co wskazuje data commitu na GitHub, prawdopodobnie poprzez problem sieciowy plik nie został zapisany na platformie moodle 
